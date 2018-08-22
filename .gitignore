@@ -1,9 +1,6 @@
-﻿*.obj
-.vs
+﻿.vs
 Debug
 Release
 x64
-*.sln
-*.vcxproj
-*.filters
-*.user
+*.obj
+*.vcxproj.user
